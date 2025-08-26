@@ -1,8 +1,10 @@
 body {
-  background-color: lightblue;
+  text-align: center;
+  background-color: rgba(107, 90, 206, 0.5);
 }
 
 h1 {
+  text-align: center;
   color: navy;
   margin-left: 20px;
 }
