@@ -46,7 +46,7 @@ a:active {
 }
   
 .header {
-  background-color: rgb(153,50,204);
+  background-color: rgb(218,112,214);
   padding: 20px;
   text-align: center;
   color: black;
@@ -67,6 +67,6 @@ a:active {
 }
 
 .topnav a:hover {
-  background-color: rgb(153,50,204);
+  background-color: rgb(218,112,214);
   color: white;
 }
