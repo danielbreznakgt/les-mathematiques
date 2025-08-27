@@ -8,17 +8,20 @@ h1 {
   text-align: center;
   color: black;
   font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 p {
   text-align: left;
   color: black;
   font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 nav {
   text-align: center;
   font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 a:link {
