@@ -43,4 +43,10 @@ a:active {
   color: hotpink;
 }
   
+.header {
+  background-color: rgb(153,50,204);
+  padding: 20 px;
+  text-align: center;
+  color: black;
+}
 
