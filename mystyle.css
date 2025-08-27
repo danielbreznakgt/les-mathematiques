@@ -1,13 +1,13 @@
 body {
   text-align: center;
   background-color: rgba(107, 90, 206, 0.5);
-  font-size: 80px;
+  font-size: 30px;
 }
 
 h1 {
   text-align: center;
   color: violet;
-  font-size: 80px;
+  font-size: 50px;
 }
 
 p {
@@ -27,7 +27,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: black;
 }
 
 /* mouse over link */
@@ -37,7 +37,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: blue;
+  color: hotpink;
 }
   
 
